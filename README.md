@@ -1,4 +1,4 @@
-# Microsoft Defender LiveResponse RAW script converter
+# Microsoft Defender LiveResponse RAW script parser
 Microsoft Defender LiveResponse script which will convert your Windows PowerShell script to LR Defender invoker
 
 ## Background
